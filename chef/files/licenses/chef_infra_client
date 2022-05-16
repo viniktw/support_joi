@@ -1,0 +1,8 @@
+---
+id: infra-client
+name: Chef Infra Client
+date_accepted: '2022-02-17T21:13:10+00:00'
+accepting_product: infra-client
+accepting_product_version: 17.9.46
+user: vagrant
+file_format: 1
